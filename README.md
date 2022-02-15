@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/08993e43067a6451c450f.jpg">
+  <img src="https://telegra.ph/file/e28a5aa28261d39339a1e.jpg">
 </p>
 
 
