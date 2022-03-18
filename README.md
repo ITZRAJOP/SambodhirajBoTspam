@@ -12,11 +12,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/dangerousjatt/SpamBot-2.0/blob/main/LICENSE)
 
-----
-
-## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0/network/members"><img src="https://img.shields.io/github/forks/dangerousjatt/SpamBot-2.0?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0/stargazers"><img src="https://img.shields.io/github/stars/dangerousjatt/SpamBot-2.0?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0?"><img src="https://img.shields.io/github/last-commit/dangerousjatt/SpamBot-2.0?style=plastic"></
-
 -------------------------------------------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
