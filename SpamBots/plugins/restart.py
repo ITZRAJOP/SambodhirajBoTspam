@@ -20,7 +20,7 @@ for x in SUDO_USERS:
 @UstaD10.on(events.NewMessage(pattern="/restart"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = " 🤖𝐑𝐄𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖\n🔰𝐏𝐋𝐄𝐀𝐒𝐄 𝐖𝐀𝐈𝐓 𝐓𝐈𝐋𝐋 𝐈𝐓 𝐑𝐄𝐁𝐎𝐎𝐓𝐒...."
+        text = " 🤖𓆩𝑺𝒂𝒎𝒃𝒐𝒅𝒉𝒊𝒓𝒂𝒋𓆪🤖\n🔰RESTARTING HATER'S MOTHER FUCKER MACHINE"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await UstaD.disconnect()
