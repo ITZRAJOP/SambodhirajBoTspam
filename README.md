@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/e28a5aa28261d39339a1e.jpg">
+  <img src="https://telegra.ph/file/1d54ee012bf70c3e37430.jpg">
 </p>
 
 
@@ -16,14 +16,14 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/MAHADEV_TORNADO_SPAM_BOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/MAHADEV_TORNADO_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/TEAM_HEARTLESS_POLICE_OP"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ABOUT_STAR_BOY"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[DEFENDERS BOY🇮🇳](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
+## 𝙾𝚆𝙽𝙴𝚁 -[STAR BOY🇮🇳](https://t.me/ITZ_STAR_BOY)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-TORNADO/MAHADEV-TORNADO-SPAM-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SambodhirajBoTspam.git)
 ------------------------------------------------
 
